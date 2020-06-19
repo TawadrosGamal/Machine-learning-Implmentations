@@ -1,2 +1,2 @@
-# Applied-Machine-Learning-HW
-this is the homeworks of applied machine learning course 2019
+# Applied-Machine-Learning
+this is a repository sepecified for machine learning projects and some maths omplementations
